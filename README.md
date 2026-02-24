@@ -1,2 +1,7 @@
-# cpp-practice
-This repository contains my C++ practice programs.
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Hello, GitHub!" << endl;
+    return 0;
+}
